@@ -1,0 +1,11 @@
+Penjelasan Program
+1. Dataset yang digunakan adalah data penjualan ayam yang memiliki 2 sheet
+2. Data yang diolah adalah sheet "pesanan"
+3. Library yang digunakan openpyxl, pandas, matplotlib
+4. Terdapat 4 data excel
+5. Data excel dengan nama "Data Penjualan Ayam" adalah data asli
+6. Data excel dengan nama "Data setelah insert row" adalah data yang telah ditambahkan row pada baris ke 220
+7. Data excel dengan nama "Data setelah update row" adalah data yang telah diupdate row pada baris ke 220 kolom F
+8. Data excel dengan nama "Data setelah hapus row" adalah data yang telah dihapus row pada baris ke 220
+9. Data excel dengan nama "Data update jumlah ayam" adalah data yang telah terdapat jumlah_ayam(kolom G223) dan jumlah ayam yang mati (L223)
+10. Program juga menampilkan visualisasi data dalam bentu diagram lingkaran
